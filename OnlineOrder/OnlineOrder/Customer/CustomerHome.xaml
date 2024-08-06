@@ -38,7 +38,7 @@
         <!-- Phần chính -->
         <ScrollViewer VerticalAlignment="Top" HorizontalAlignment="Left" Margin="69,115,0,0">
             <StackPanel>
-                <TextBlock Text="SPECIAL" 
+                <TextBlock Text="SPECIALLY" 
                            FontSize="36" 
                            FontWeight="Bold" 
                            Foreground="Red" 
