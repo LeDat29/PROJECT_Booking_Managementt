@@ -59,7 +59,7 @@ CornerRadius="6" HorizontalAlignment="Center" Width="520">
                 <!-- Password Strength Text -->
                 <TextBlock Grid.Row="3" Grid.Column="1" x:Name="PasswordStrengthTextBlock" Margin="5,0,-170,0" VerticalAlignment="Top"/>
 
-                <TextBlock Grid.Row="3" Grid.Column="0" Text="Full Name:" Margin="5,37,5,0" VerticalAlignment="Top" Grid.RowSpan="2"/>
+                <TextBlock Grid.Row="3" Grid.Column="0" Text="Fullll Name:" Margin="5,37,5,0" VerticalAlignment="Top" Grid.RowSpan="2"/>
                 <TextBox VerticalContentAlignment="Center" Grid.Row="3" Grid.Column="1" x:Name="FullnameTextBox" Margin="5,30,-170,20" Grid.RowSpan="2"/>
 
                 <TextBlock Grid.Row="4" Grid.Column="0" Text="Gender:" Margin="5,37,5,0" VerticalAlignment="Top" Grid.RowSpan="2"/>

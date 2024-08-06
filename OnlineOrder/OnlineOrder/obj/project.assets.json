@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< Updated upstream
       "projectUniqueName": "E:\\FPT\\Semester 5\\PRN212 BL5\\Code\\ProjectPlant\\OnlineOrder\\OnlineOrder\\OnlineOrder.csproj",
       "projectName": "OnlineOrder",
       "projectPath": "E:\\FPT\\Semester 5\\PRN212 BL5\\Code\\ProjectPlant\\OnlineOrder\\OnlineOrder\\OnlineOrder.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
       "outputPath": "E:\\FPT\\Semester 5\\PRN212 BL5\\Code\\ProjectPlant\\OnlineOrder\\OnlineOrder\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\ADMIN\\Source\\Repos\\PROJECT_GR_Managementt\\OnlineOrder\\OnlineOrder\\OnlineOrder.csproj",
+      "projectName": "OnlineOrder",
+      "projectPath": "C:\\Users\\ADMIN\\Source\\Repos\\PROJECT_GR_Managementt\\OnlineOrder\\OnlineOrder\\OnlineOrder.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ADMIN\\Source\\Repos\\PROJECT_GR_Managementt\\OnlineOrder\\OnlineOrder\\obj\\",
+>>>>>>> Stashed changes
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
