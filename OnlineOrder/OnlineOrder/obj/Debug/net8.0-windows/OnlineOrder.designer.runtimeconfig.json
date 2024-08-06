@@ -12,8 +12,13 @@
       }
     ],
     "additionalProbingPaths": [
+<<<<<<< Updated upstream
       "C:\\Users\\ADMIN\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\ADMIN\\.nuget\\packages"
+=======
+      "C:\\Users\\DELL DN\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\DELL DN\\.nuget\\packages"
+>>>>>>> Stashed changes
     ],
     "configProperties": {
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,

@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "3md/I5w2iBDtfp0POLuAmNl882OVbfERGl7B/Ae20vq4b5/9X5eslBY4uWJwcmoLKKpfox2Wk5Eg4Tn7GwbSSQ==",
   "success": true,
   "projectFilePath": "E:\\FPT\\Semester 5\\PRN212 BL5\\Code\\ProjectPlant\\OnlineOrder\\OnlineOrder\\OnlineOrder.csproj",
+=======
+  "dgSpecHash": "nNfUoGdZKeBlLj1l7i3EJVFqYeuhLEUmK1FcRD+fvb1dASRvDvYr8tGV+4k+xaaVBVhV/s5enVGCg/m86xRGrA==",
+  "success": true,
+  "projectFilePath": "E:\\PRN212\\Assignment_PRN212\\OnlineOrder\\OnlineOrder\\OnlineOrder.csproj",
+>>>>>>> Stashed changes
   "expectedPackageFiles": [],
   "logs": []
 }

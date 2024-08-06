@@ -8,11 +8,16 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
+<<<<<<< Updated upstream
     "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\DELL DN\\.nuget\\packages\\": {}
+>>>>>>> Stashed changes
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< Updated upstream
       "projectUniqueName": "E:\\FPT\\Semester 5\\PRN212 BL5\\Code\\ProjectPlant\\OnlineOrder\\OnlineOrder\\OnlineOrder.csproj",
       "projectName": "OnlineOrder",
       "projectPath": "E:\\FPT\\Semester 5\\PRN212 BL5\\Code\\ProjectPlant\\OnlineOrder\\OnlineOrder\\OnlineOrder.csproj",
@@ -21,6 +26,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "E:\\PRN212\\Assignment_PRN212\\OnlineOrder\\OnlineOrder\\OnlineOrder.csproj",
+      "projectName": "OnlineOrder",
+      "projectPath": "E:\\PRN212\\Assignment_PRN212\\OnlineOrder\\OnlineOrder\\OnlineOrder.csproj",
+      "packagesPath": "C:\\Users\\DELL DN\\.nuget\\packages\\",
+      "outputPath": "E:\\PRN212\\Assignment_PRN212\\OnlineOrder\\OnlineOrder\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\DELL DN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> Stashed changes
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
