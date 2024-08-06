@@ -28,8 +28,8 @@
         <!-- Center Buttons Section -->
         <StackPanel VerticalAlignment="Top" HorizontalAlignment="Center" Orientation="Vertical" Width="532" Margin="0,127,0,0" >
             <Button Content="Account Manage" Margin="5" Width="437" Height="50" Click="Button_Click" />
-            <Button Content="Purchase Order Lines" Margin="5" Width="437" Height="50" Click="Button_Click_1" />
-            <Button Content="Supplier Transactions" Margin="5" Width="437" Height="50" Click="Button_Click_2" />
+            <Button Content="Manage Product" Margin="5" Width="437" Height="50" Click="Button_Click_1" />
+            <Button Content="Manage Category" Margin="5" Width="437" Height="50" Click="Button_Click_2" />
             <Button Content="Purchases Order" Margin="5" Width="437" Height="50" Click="Button_Click_3" />
         </StackPanel>
     </Grid>
